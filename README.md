@@ -8,7 +8,7 @@ To get a local copy of this project up and running, follow these steps:
 
 1. Install the .NET SDK for your operating system by following the instructions in the [official documentation](https://dotnet.microsoft.com/download).
 
-2. Clone this repository to your local machine using `git clone https://github.com/your-username/MyWebApi.git`.
+2. Clone this repository to your local machine using `git clone https://github.com/markxkamau/Political_WebApi.git`.
 
 3. Open the project in Visual Studio or another .NET IDE.
 
