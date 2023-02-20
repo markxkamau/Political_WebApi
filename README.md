@@ -22,11 +22,11 @@ To get a local copy of this project up and running, follow these steps:
 
 This API provides the following endpoints:
 
-- `/api/items`: Returns a list of all items in the database.
-- `/api/items/{id}`: Returns a single item with the specified ID.
-- `/api/items/add`: Adds a new item to the database.
-- `/api/items/update/{id}`: Updates an existing item with the specified ID.
-- `/api/items/delete/{id}`: Deletes an item with the specified ID from the database.
+- `/api/politicalcandidate`: Returns a list of all items in the database.
+- `/api/politicalcandidate/{id}`: Returns a single item with the specified ID.
+- `/api/politicalcandidate`: Adds a new item to the database when called using the post mapping.
+- `/api/politicalcandidate/update/{id}`: Updates an existing item with the specified ID.
+- `/api/politicalcandidate/delete/{id}`: Deletes an item with the specified ID from the database.
 
 To use the API, make a HTTP request to the appropriate endpoint with the appropriate method (GET, POST, PUT, DELETE) and any required data. The API will return a JSON response with the requested data.
 
